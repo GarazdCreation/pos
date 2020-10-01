@@ -1,0 +1,7 @@
+*.pyc
+.git
+*.zip
+__pycache__/
+*~
+*.mo
+
