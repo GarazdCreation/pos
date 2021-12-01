@@ -6,7 +6,7 @@
 
 {
     'name': 'Restriction of POS User',
-    'version': '15.0.1.0.0',
+    'version': '15.0.1.0.1',
     'category': 'Point of Sale',
     'author': 'Garazd Creation',
     'website': 'https://garazd.biz',
@@ -17,8 +17,6 @@
         'point_of_sale',
     ],
     'data': [
-        'data/point_of_sale_demo.xml',
-        'data/res_users_demo.xml',
         'security/pos_user_restrict_security.xml',
         'views/res_users_views.xml',
     ],
